@@ -11,7 +11,7 @@ Welcome 🙋‍♂️ !
   - bootstrap switch toggler
 
 ## To Run
-do git clone of the repository https://github.com/mayur-keswani/Theme-Toggle-Using-React.git. 
+do git clone of the repository https://github.com/mayur-keswani/Theme-Toggle-using-ReactJS.git. 
 In the project directory, you can run: 
 #### `npm start`
 Runs the app in the development mode.\
